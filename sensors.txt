@@ -1,0 +1,8 @@
+/sys/bus/w1/devices/28-0215650b07ff/w1_slave 0
+/sys/bus/w1/devices/28-03156513a7ff/w1_slave 1
+/sys/bus/w1/devices/28-0415a26f9cff/w1_slave 2
+/sys/bus/w1/devices/28-021565236dff/w1_slave 3
+/sys/bus/w1/devices/28-0215656dd8ff/w1_slave 4
+/sys/bus/w1/devices/28-03156548cdff/w1_slave 5
+/sys/bus/w1/devices/28-0215656f4aff/w1_slave 6
+/sys/bus/w1/devices/28-0215656f89ff/w1_slave 7
